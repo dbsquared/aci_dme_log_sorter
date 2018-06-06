@@ -1,5 +1,4 @@
 ```
-python dme_sort.py  --help
 usage: dme_sort.py [-h] [--files FILES [FILES ...]] [--start STARTTIME]
                    [--end ENDTIME]
 
